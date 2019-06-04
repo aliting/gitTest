@@ -18,5 +18,10 @@ public class Users {
 	public int getId() {
 		return id;
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "id="+id+",name="+name;
+	}
 
 }
