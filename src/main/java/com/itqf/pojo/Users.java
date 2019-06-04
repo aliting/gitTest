@@ -21,7 +21,7 @@ public class Users {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "id="+id+",name="+name;
+		return "个人信息是： id="+id+",name="+name+"";
 	}
 
 }
